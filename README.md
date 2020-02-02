@@ -3,7 +3,7 @@
 Pour convertir une image en nuances de gris il y a deux solutions :  
   faire la moyenne des valeurs RGB pour chaque pixels  g=(r+g+b)/3  
   appliquer par la C.I.E (Commission Internationale de l'Éclairage) pour les couleurs non-linéaires (image vue à partir d'un écran vidéo)  
-  g= (0.299r+0.578v+0.114)  
+  g= (0.299r+0.578v+0.114b)  
 dans tous les cas il faut recalculer chaque pixel.  
 préparez le code suivant  :
 
