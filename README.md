@@ -18,6 +18,5 @@ Faire un filtre pour passer l'image en négatif. Pour afficher l'inverse d'un pi
 # Evaluation 2 :  
 En vous basant sur la formule pour calculer un niveau de gris, réalisez un filtre "instagram" en passant le rouge et le v à 107% de leur valeur et en diminuant le b à 88% NB : dans la formule des niveau de gris, 107 %  s'écrit 1.07 et 88% s'écrit 0.88 
 
-# lien :  
-pour faire les deux évaluations il faut ouvrir le programme suivant et en faire un fork  https://repl.it/@jpeaud/SNTPIL1
+
 
